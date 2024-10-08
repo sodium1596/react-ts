@@ -1,0 +1,7 @@
+/adv-components/node_modules
+/data-fetching/node_modules
+/react-ts-basics/node_modules
+/redux-ts/node_modules
+/type-safe-with-context-and-useReducer/node_modules
+
+/.DS_Store
